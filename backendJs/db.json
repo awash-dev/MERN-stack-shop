@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S22",
+      "description": "High-performance smartphone with 256GB storage.",
+      "price": 799.99,
+      "category": "Electronics",
+      "stock": 30,
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/latin/sm-s901ezkgzto/gallery/latin-galaxy-s22-5g-galaxy-s22-5g-sm-s901ezkgzto-368287177?$720_576_PNG$"
+    },
+    {
+      "id": 3,
+      "name": "Sony ",
+      "description": "Noise-canceling over-ear headphones.",
+      "price": 349.99,
+      "category": "Electronics",
+      "stock": 75,
+      "image": "https://www.sony.com/image/1e7b7c2c1e8c3c5e2a2f2c7c3a4e5b5d?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF"
+    },
+    {
+      "id": 4,
+      "name": "Dell XPS 13",
+      "description": "Ultra-thin laptop with Intel i7 processor.",
+      "price": 1249.99,
+      "category": "Computers",
+      "stock": 20,
+      "image": "https://i.dell.com/is/image/DellContent/dell-xps-13-9310-laptop-lifestyle-1?$desktop$"
+    },
+    {
+      "id": 5,
+      "name": "Nike Air Max 270",
+      "description": "Stylish and comfortable sneakers.",
+      "price": 149.99,
+      "category": "Footwear",
+      "stock": 100,
+      "image": "https://static.nike.com/a/images/t_default/6c4f4a7d-5b3b-4c4f-9c5e-1f3e1c4b3c2f/air-max-270-mens-shoes-8GZ8kp.png"
+    },
+    {
+      "id": 6,
+      "name": "Kindle Paperwhite",
+      "description": "Waterproof e-reader with built-in light.",
+      "price": 139.99,
+      "category": "Books",
+      "stock": 60,
+      "image": "https://m.media-amazon.com/images/I/61nA8l4A8ML._AC_SX679_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Instant Pot Duo 7-in-1",
+      "description": "Multifunctional pressure cooker.",
+      "price": 89.99,
+      "category": "Home Appliances",
+      "stock": 40,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81o%2B1cKzE6L._AC_SL1500_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Fitbit Charge 5",
+      "description": "Advanced fitness and health tracker.",
+      "price": 149.95,
+      "category": "Wearables",
+      "stock": 80,
+      "image": "https://static-assets.fitbit.com/production/images/charge5/charge5_black_graphite/charge5_black_graphite_hero.png"
+    },
+    {
+      "id": 9,
+      "name": "GoPro HERO10",
+      "description": "Action camera with 5.3K video capability.",
+      "price": 399.99,
+      "category": "Cameras",
+      "stock": 25,
+      "image": "https://gopro.com/content/dam/gopro/2021/products/hero10-black/hero10-black-hero.png"
+    },
+    {
+      "id": 10,
+      "name": "Apple MacBook Air",
+      "description": "Lightweight laptop with M1 chip.",
+      "price": 999,
+      "category": "Computers",
+      "stock": 15,
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-m1-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=95&op_usm=0.5,0.5&resMode=sharp2&op_usm=0.5,0.5&fit=constrain"
+    }
+  ]
+}
